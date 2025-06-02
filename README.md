@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://LINK-A-TU-BANNER" alt="Luzdey Quintero Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/LUZQ213/LUZQ213/db0121d4ddd8b84c37932d80e9e2683b728e6352/Luzdey%20Quintero%20(3).jpg" width="100%">
 </p>
 
 # ✨ Hola, soy Luzdey Quintero
