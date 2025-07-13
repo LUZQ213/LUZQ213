@@ -5,7 +5,7 @@
 
 # ✨ Hola, soy Luzdey Quintero
 
-Soy *analista de datos en formación*, en transición desde sectores humanos como la restauración y organizaciones sin fines de lucro. Actualmente me enfoco en aplicar mis habilidades en análisis de datos para generar impacto en sectores como el comercio, la hostelería y las causas sociales.
+Soy *analista de datos*, en transición desde sectores humanos como la restauración y organizaciones sin fines de lucro. Actualmente me enfoco en aplicar mis habilidades en análisis de datos para generar impacto en sectores como el comercio, la hostelería y las causas sociales.
 
 ---
 
