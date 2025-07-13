@@ -32,8 +32,8 @@ Soy *analista de datos en formación*, en transición desde sectores humanos com
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/luzdey-quintero-palacios-b224b3365/)  
-- ✉ quintero.213@icloud.com
+- ✉ lu.quipa.213@gmail.com
 
 ---
 
-En constante aprendizaje. Convencida de que los datos también cuentan historias humanas.
+## En constante aprendizaje. Convencida de que los datos también cuentan historias humanas.
